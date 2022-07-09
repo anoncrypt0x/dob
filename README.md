@@ -1,4 +1,4 @@
-![Netlify Next.js Blog Template designed by Bejamas](github-banner.svg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1cd355bf-e50e-430f-8ba6-cda0ce12296c/deploy-status)](https://app.netlify.com/sites/doc-of-blockchain/deploys)
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
 
